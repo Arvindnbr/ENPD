@@ -1,0 +1,1 @@
+Label : ب س م 1 1 1, Eng_label : BSM111-, Coordinates : 710 293 785 329Label : ق ل ق 8 8 8 8, Eng_label : KLK8888, Coordinates : 141 257 227 294

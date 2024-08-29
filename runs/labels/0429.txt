@@ -1,0 +1,1 @@
+Label : ا ا ا 4 4 4 4, Eng_label : AAA4444, Coordinates : 514 405 608 449

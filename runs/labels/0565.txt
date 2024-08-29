@@ -1,0 +1,1 @@
+Label : ا ن س 3 8 4, Eng_label : ANS384-, Coordinates : 110 754 269 841Label : ا ن س 2 2 2, Eng_label : ANS222-, Coordinates : 679 550 766 593

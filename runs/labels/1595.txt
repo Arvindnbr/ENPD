@@ -1,0 +1,1 @@
+Label : ن ج ا 6 6 6 6, Eng_label : NGA6666, Coordinates : 151 451 242 498Label : ن ج ا 1 1 1, Eng_label : NGA111-, Coordinates : 809 434 907 482

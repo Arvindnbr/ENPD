@@ -1,0 +1,1 @@
+Label : ج ب ل 1 1 1 1, Eng_label : GBL1111, Coordinates : 183 297 270 336Label : ا س د 4 4 4 4, Eng_label : ASD4444, Coordinates : 748 404 863 456

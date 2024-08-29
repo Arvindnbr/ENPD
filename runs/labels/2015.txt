@@ -1,0 +1,1 @@
+Label : ب م 1 1 1 1, Eng_label : BM1111-, Coordinates : 741 366 833 413Label : ب م 6 6 6 6, Eng_label : BM6666-, Coordinates : 152 454 244 501

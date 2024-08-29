@@ -1,0 +1,1 @@
+Label : ل ج م 5 5 5 5, Eng_label : LGM5555, Coordinates : 879 464 930 493Label : ى ى ى 3 2 3 3, Eng_label : YYY3233, Coordinates : 505 458 560 488Label : ج ن 1, Eng_label : GN1----, Coordinates : 97 448 159 478

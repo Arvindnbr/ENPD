@@ -1,0 +1,1 @@
+Label : س س س 1 1 1, Eng_label : SSS111-, Coordinates : 666 365 861 428Label : س ر ع 6 5 8 4, Eng_label : SRE6584, Coordinates : 142 358 250 405
